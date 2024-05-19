@@ -2,6 +2,14 @@ import cv2
 import time
 import threading
 
+#TODO 
+#Użytkownik w trakcie działania programu powinien móc wielokrotnie wybierać to ile zdjęć chce wykonań
+#Fajnie by było jakby na ekranie wyświetlał się jakiś feedback, że zdjęcie zostało wykonane/ile pozostało 
+#do wykonania. 
+#Potrzebna jest jakaś wyraźna przerwa, albokomunikat żeby przygotować się do kolejnego zdjęci, żeby foty nie 
+#wychodziły rozmazane, bo jak na razie może ci w ruchu zrobić zdjęcie. (Będzie trzeba mniej czasu poświęcić na
+# oczyszczanie danych)
+
 def capture_image(img_name, frame):
     cv2.imwrite(img_name, frame)
     print(f"{img_name} written!")
