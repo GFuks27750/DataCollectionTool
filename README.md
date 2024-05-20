@@ -7,3 +7,5 @@ This simple tool helps in taking many pictures at one press of a button. It can 
 3. Press space bar and start taking pictures. <br>
 4. Done! Your pictures are now saved <br>
 
+<h3>Authors</h3>
+This project was completed with a help of my friend <a href = "https://github.com/mj-pjatk">Michał Jarek</a>
