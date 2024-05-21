@@ -7,6 +7,7 @@ DataCollectionTool was made as a part of a bigger project, it can be found here 
 2. Type name for the catalog where picture will be saved (in this specific tool, catalogs are named using only single letter, becuase it is also used as decision atribute in clasificator) <br>
 3. Press space bar and start taking pictures. <br>
 4. Done! Your pictures are now saved <br>
+5. (Optional) After you've done taking pictures, camera will freeze for a moment, and you can again type how many pictures you want to take, and to what catalog save them
 
 <h3>Authors</h3>
 This project was completed with a help of my friend <a href = "https://github.com/mj-pjatk">Michał Jarek</a>
