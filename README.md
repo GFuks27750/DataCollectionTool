@@ -1,6 +1,6 @@
 <h1>Description</h1>
 This simple programm helps in taking many pictures at one press of a button. It can be used for example to collect data, to train your ML model. 
-DataCollectionTool was made as a part of a bigger project, it can be found here -> <a href = "https://github.com/GFuks27750/SignLanguageDetection>click</a>
+DataCollectionTool was made as a part of a bigger project, it can be found here -> <a href = "https://github.com/GFuks27750/SignLanguageDetection">click</a>
 
 <h2>How to use it?</h2>
 1. Type in console how many pictures do you want to take <br>
