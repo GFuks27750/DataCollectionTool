@@ -6,7 +6,7 @@ DataCollectionTool is a part of a [bigger project](https://github.com/GFuks27750
 ## Usage
 
 1. Type an amount of pictures you want to take.
-1. Specify a name for a catalog where pictures will be saved (in this specific tool, catalogs are named using only a single letter, becuase it's also used as a decision atribute in clasificator).
+1. Specify a name for a catalog where pictures will be saved (in this specific tool, catalogs are named using only a single letter, becuase it's also used as a decision attribute in classificator).
 1. Press space bar to begin.
 1. Done! Your pictures are now saved.
 1. (Optional) Repeat.
